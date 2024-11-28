@@ -18,7 +18,7 @@ I am also a private GCSE/A-level Maths and Computer Science tutor, and have over
 
 # Projects
 
-I've developed various projects, which I have listed on the [projects]({{< relref "./projects/_index.md" >}}) page. There you will find blog posts, GitHub Repos and _maybe_ a YouTube video.
+You can check out my pinned repo's, or my YouTube channel, as well as my blog's [projects page](https://johncosta.tech/projects/). There you will find blog posts, GitHub Repos and _maybe_ a YouTube video.
 
 ---
 
