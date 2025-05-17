@@ -4,6 +4,8 @@
 
 I am a Software Engineer, currently working at Decipad. I'm interested in various subjects including: Compilers, Linux Servers, Web Development, Distributed System and many more.
 
+You can find more repo's at [My own Git server](https://git.johncosta.tech)
+
 # Work
 
 Currently working at [Decipad](https://www.decipad.com/) as a full stack engineer.
